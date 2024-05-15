@@ -1,4 +1,4 @@
-# OpenLayers Map Visualization with React
+# OpenLayers Map Visualization with ReactJS
 
 This project leverages the power of React.js and OpenLayers to create an interactive map visualization application. The primary focus of this application is to provide a user-friendly map interface with support for both dark and light modes, integrated geocoding for location search, and weather data display within popups.
 
