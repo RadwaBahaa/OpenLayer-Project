@@ -46,16 +46,13 @@ Future enhancements for this project could include:
 To run the project locally:
 
 1. Clone the repository:
-
-   git clone https://github.com/RadwaBahaa/OpenLayer-Project.git
+   _git clone https://github.com/RadwaBahaa/OpenLayers-Map-Visualization-with-ReactJS.git_
 
 2. Install dependencies:
-
    _cd openlayers-react-map_
    _npm install_
 
 3. Start the development server:
-
    _npm start_
 
 4. Access the application in your web browser at http://localhost:3000.
