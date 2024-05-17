@@ -46,15 +46,21 @@ Future enhancements for this project could include:
 To run the project locally:
 
 1. Clone the repository:
-   _git clone https://github.com/RadwaBahaa/OpenLayers-Map-Visualization-with-ReactJS.git_
+   ```sh
+   git clone https://github.com/RadwaBahaa/OpenLayers-Map-Visualization-with-ReactJS.git
+   ```
 
-2. Install dependencies:
-   _cd openlayers-react-map_
-   _npm install_
+3. Install dependencies:
+   ```sh
+   cd openlayers-react-map
+   npm install
+   ```
 
-3. Start the development server:
-   _npm start_
+5. Start the development server:
+   ```sh
+   npm start
+   ```
 
-4. Access the application in your web browser at http://localhost:3000.
+7. Access the application in your web browser at http://localhost:3000
 
 You can copy and paste this Markdown content into a README.md file in your project repository. Feel free to customize the content further based on your project specifics and preferences. This README.md file provides a comprehensive overview of your project's features, technologies used, purpose, project structure, future enhancements, and instructions for getting started with the project locally.
