@@ -29,9 +29,9 @@ The purpose of this project is to create a visually appealing and interactive ma
 
 The project structure is organized following React best practices, with components responsible for different aspects of the application:
 
-- **Map Component**: Contains the OpenLayers map instance and handles map interactions.
-- **Search Component**: Manages location search using geocoding services and displays results on the map.
-- **Popup Component**: Renders popups with weather data when triggered by user interactions.
+- `Map Component`: Contains the OpenLayers map instance and handles map interactions.
+- `Search Component`: Manages location search using geocoding services and displays results on the map.
+- `Popup Component`: Renders popups with weather data when triggered by user interactions.
 
 ## Future Enhancements
 
